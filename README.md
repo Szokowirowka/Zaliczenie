@@ -1,4 +1,4 @@
-pkaminski1.github.io
+Piotr Kamiński Blog
 ====================
 
 my page
